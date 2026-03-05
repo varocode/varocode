@@ -113,8 +113,7 @@ public class AlvaroAcevedo : Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varocode&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&cache_seconds=1800" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varocode&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="180em"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=varocode&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
 </div>
 
 <div align="center">
