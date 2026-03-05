@@ -32,7 +32,7 @@ public class AlvaroAcevedo : Developer
     public string Role        => "Junior Full Stack Developer";
     public string[] Stack     => ["C#", ".NET", "React", "Python", "SQL", "MongoDB"];
     public string Focus       => "Backend sólido + Frontend funcional";
-    public string Goal        => "Conseguir mi primer empleo como desarrollador Full Stack";
+    public string Goal        => "Desarrollar software que resuelva problemas reales";
     public string Editor      => "Neovim btw 😎";
     public string OS          => "Arch Linux + BSPWM";
     public bool   OpenToWork  => true;
