@@ -113,17 +113,16 @@ public class AlvaroAcevedo : Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varocode&theme=github_dark" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=varocode&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varocode&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" height="180em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varocode&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varocode&theme=github_dark" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varocode&theme=github_dark" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="55%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="60%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varocode&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
