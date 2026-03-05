@@ -1,104 +1,158 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Alvaro%20Acevedo&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer&descAlignY=58&descColor=8b949e" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alvaro%20Acevedo&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Python&descAlignY=58&descColor=a8b2d8" width="100%"/>
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/alvaro-acevedo-a94054382">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alvaroacevedo83@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/varocode">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=varocode&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alvaro%20Acevedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-acevedo-a94054382)
-[![Gmail](https://img.shields.io/badge/Gmail-alvaroacevedo83@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroacevedo83@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-varocode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varocode)
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Backend+.NET+%7C+Frontend+React;Automatizaci%C3%B3n+con+Python+%F0%9F%90%8D;Siempre+aprendiendo+cosas+nuevas+%F0%9F%93%9A;Buscando+mi+primer+empleo+formal+%F0%9F%92%BC" alt="Typing SVG"/>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
 ```csharp
-var developer = new Developer
+public class AlvaroAcevedo : Developer
 {
-    Name        = "Alvaro Acevedo",
-    Role        = "Junior Full Stack Developer",
-    Focus       = "Backend .NET · Frontend React",
-    LookingFor  = "Oportunidades como desarrollador Full Stack",
-    CurrentlyLearning = new[] { "ASP.NET Core", "React", "PostgreSQL" },
-    Passion     = "Construir soluciones reales con código limpio"
-};
+    public string Name        => "Alvaro Acevedo";
+    public string Role        => "Junior Full Stack Developer";
+    public string[] Stack     => ["C#", ".NET", "React", "Python", "SQL Server", "PostgreSQL", "MongoDB"];
+    public string Focus       => "Backend sólido + Frontend funcional";
+    public string Goal        => "Conseguir mi primer empleo como desarrollador Full Stack";
+    public string Editor      => "Neovim btw 😎";
+    public string OS          => "Arch Linux + BSPWM";
+    public bool   OpenToWork  => true;
+}
 ```
 
-- Desarrollador con enfoque en **Backend .NET** con miras a **Full Stack**
-- Experiencia con **C# / ASP.NET Core**, **React** y **Python** para automatización
-- Trabajo con bases de datos relacionales y NoSQL: **SQL Server**, **PostgreSQL**, **MongoDB**
-- Apasionado por construir proyectos que resuelven problemas reales
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### ⚡ Un poco sobre mí:
+
+- 🔭 Construyendo mi portafolio profesional desde cero
+- 🌱 Aprendiendo **ASP.NET Core 8**, **Entity Framework** y arquitectura limpia
+- 💡 Me gusta automatizar tareas repetitivas con **Python**
+- 🛠️ Usuario de **Neovim** y entornos Linux personalizados
+- 🎯 Meta: conseguir rol como **Full Stack Developer**
+- 🤝 Abierto a colaboraciones y oportunidades laborales
+- 📍 República Dominicana
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Herramientas
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 💻 Lenguajes
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ Frameworks & Librerías
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-### Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+### 🧰 Herramientas & Entorno
+<p>
+  <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
+
+### 🖥️ Sistema Operativo & Entorno de Escritorio
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BSPWM-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=varocode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varocode&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=varocode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varocode&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em"/>
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="49%"/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varocode&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-> 🔨 Portafolio en construcción — próximamente proyectos reales aquí
+> 🔨 **Portafolio en construcción activa** — los proyectos llegan pronto
+
+| Proyecto | Descripción | Stack | Estado |
+|----------|------------|-------|--------|
+| 🔜 API REST con .NET | API con auth JWT, CRUD y Swagger | C# · ASP.NET Core · PostgreSQL | En desarrollo |
+| 🔜 Dashboard Full Stack | Frontend React conectado a API propia | React · .NET · SQL Server | Próximo |
+| 🔜 Automatización Python | Scripts para procesamiento de datos | Python | Próximo |
 
 ---
 
-## 📫 Contacto
-
-¿Tienes un proyecto o una oportunidad? Hablemos.
+## 📫 ¿Hablamos?
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-acevedo-a94054382)
-[![Email](https://img.shields.io/badge/Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroacevedo83@gmail.com)
-
+  <a href="https://www.linkedin.com/in/alvaro-acevedo-a94054382">
+    <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alvaroacevedo83@gmail.com">
+    <img src="https://img.shields.io/badge/Escribirme%20un%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
