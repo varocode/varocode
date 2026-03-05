@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Backend+.NET+%7C+Frontend+React;Automatizaci%C3%B3n+con+Python+%F0%9F%90%8D;Siempre+aprendiendo+cosas+nuevas+%F0%9F%93%9A;Buscando+mi+primer+empleo+formal+%F0%9F%92%BC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Backend+.NET+%7C+Frontend+React;Automatizaci%C3%B3n+con+Python+%F0%9F%90%8D;Neovim+%2B+Arch+Linux+btw+%F0%9F%98%8E;Buscando+mi+primer+empleo+formal+%F0%9F%92%BC" alt="Typing SVG"/>
 </div>
 
 ---
@@ -30,7 +30,7 @@ public class AlvaroAcevedo : Developer
 {
     public string Name        => "Alvaro Acevedo";
     public string Role        => "Junior Full Stack Developer";
-    public string[] Stack     => ["C#", ".NET", "React", "Python", "SQL Server", "PostgreSQL", "MongoDB"];
+    public string[] Stack     => ["C#", ".NET", "React", "Python", "SQL", "MongoDB"];
     public string Focus       => "Backend sólido + Frontend funcional";
     public string Goal        => "Conseguir mi primer empleo como desarrollador Full Stack";
     public string Editor      => "Neovim btw 😎";
@@ -39,14 +39,14 @@ public class AlvaroAcevedo : Developer
 }
 ```
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### ⚡ Un poco sobre mí:
 
 - 🔭 Construyendo mi portafolio profesional desde cero
 - 🌱 Aprendiendo **ASP.NET Core 8**, **Entity Framework** y arquitectura limpia
 - 💡 Me gusta automatizar tareas repetitivas con **Python**
-- 🛠️ Usuario de **Neovim** y entornos Linux personalizados
+- 🛠️ Usuario de **Neovim** y entornos Linux personalizados con **BSPWM**
 - 🎯 Meta: conseguir rol como **Full Stack Developer**
 - 🤝 Abierto a colaboraciones y oportunidades laborales
 - 📍 República Dominicana
@@ -65,7 +65,6 @@ public class AlvaroAcevedo : Developer
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks & Librerías
@@ -87,7 +86,7 @@ public class AlvaroAcevedo : Developer
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🧰 Herramientas & Entorno
+### 🧰 Herramientas & Dev
 <p>
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -99,7 +98,7 @@ public class AlvaroAcevedo : Developer
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
-### 🖥️ Sistema Operativo & Entorno de Escritorio
+### 🖥️ Sistema Operativo & Entorno
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -114,29 +113,30 @@ public class AlvaroAcevedo : Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varocode&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varocode&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varocode&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varocode&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=varocode&theme=github_dark" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=varocode&theme=github_dark" height="180em"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varocode&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="60%"/>
 </div>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-> 🔨 **Portafolio en construcción activa** — los proyectos llegan pronto
+> 🔨 **Portafolio en construcción activa** — proyectos próximamente
 
 | Proyecto | Descripción | Stack | Estado |
 |----------|------------|-------|--------|
-| 🔜 API REST con .NET | API con auth JWT, CRUD y Swagger | C# · ASP.NET Core · PostgreSQL | En desarrollo |
+| 🔜 API REST con .NET | API con auth JWT, CRUD completo y Swagger | C# · ASP.NET Core · PostgreSQL | En desarrollo |
 | 🔜 Dashboard Full Stack | Frontend React conectado a API propia | React · .NET · SQL Server | Próximo |
-| 🔜 Automatización Python | Scripts para procesamiento de datos | Python | Próximo |
+| 🔜 Automatización Python | Scripts para procesamiento masivo de datos | Python | Próximo |
 
 ---
 
