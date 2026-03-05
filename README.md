@@ -113,10 +113,6 @@ public class AlvaroAcevedo : Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varocode&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="55%"/>
 </div>
 
