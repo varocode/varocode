@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Backend+.NET+%7C+Frontend+React;Automatizaci%C3%B3n+con+Python+%F0%9F%90%8D;Neovim+%2B+Arch+Linux+btw+%F0%9F%98%8E" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Backend+.NET+%7C+Frontend+React;Automatizaci%C3%B3n+con+Python+%F0%9F%90%8D;Neovim+%2B+Arch+Linux+btw+%F0%9F%98%8E" alt="Typing SVG"/>
 </div>
 
 ---
