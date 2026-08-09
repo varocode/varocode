@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alvaro%20Acevedo&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Python&descAlignY=58&descColor=a8b2d8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Alvaro%20Acevedo&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer+%F0%9F%9A%80;Backend+.NET+%7C+Frontend+React;Automatizaci%C3%B3n+con+Python+%F0%9F%90%8D;Neovim+%2B+Arch+Linux+btw+%F0%9F%98%8E" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Bache+%F0%9F%91%8C;Backend+%2B+Frontend+%2B+Automation"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 public class AlvaroAcevedo : Developer
 {
     public string Name        => "Alvaro Acevedo";
-    public string Role        => "Junior Full Stack Developer";
+    public string Role        => "Full Stack Developer";
     public string[] Stack     => ["C#", ".NET", "React", "Python", "SQL", "MongoDB"];
     public string Focus       => "Backend sólido + Frontend funcional";
     public string Goal        => "Desarrollar software que resuelva problemas reales";
@@ -113,11 +113,11 @@ public class AlvaroAcevedo : Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" width="55%"/>
+  <img src="https://streak-stats.demolab.com?user=varocode&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varocode&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varocode&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
