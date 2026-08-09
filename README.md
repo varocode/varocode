@@ -18,7 +18,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;Bache+%F0%9F%91%8C;Backend+%2B+Frontend+%2B+Automation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full+Stack+%F0%9F%9A%80;Backend+%2B+Frontend+%2B+Automation"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 public class AlvaroAcevedo : Developer
 {
     public string Name        => "Alvaro Acevedo";
-    public string Role        => "Full Stack Developer";
+    public string Role        => "Software Engineer | Full Stack";
     public string[] Stack     => ["C#", ".NET", "React", "Python", "SQL", "MongoDB"];
     public string Focus       => "Backend sólido + Frontend funcional";
     public string Goal        => "Desarrollar software que resuelva problemas reales";
